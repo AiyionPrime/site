@@ -135,6 +135,6 @@ GLUON_REGION ?= eu
 GLUON_ATH10K_MESH ?= 11s
 
 # DEFAULT_GLUON_RELEASE := 0.13a-$(shell date '+%Y%m%d')
-DEFAULT_GLUON_RELEASE := 0.14c-20170128
+DEFAULT_GLUON_RELEASE := 0.14c-$(shell date '+%Y%m%d')
 GLUON_BRANCH ?= stable
 
